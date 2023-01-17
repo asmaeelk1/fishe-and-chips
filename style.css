@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+}
+body{
+    background-image: url(./fond.png);
+}
+.logo{    
+    margin: auto; 
+    display: block;
+}
+header{
+    background-color: #25B3B4;
+    border-style: solid;
+   border-width: 5px;
+    border-color: #088e8e;
+    margin-top: 30px;
+    border-right: none;
+    border-left: none;
+}
+.lac{
+    margin: auto;
+    display: inline;
+    text-align: center;
+    margin-left: 380px; 
+    padding: 30px;
+}
+.med{
+    
+    display: inline-block;  
+    margin: auto;
+    margin-right: 50px;  
+}
+.lac a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
+nav{
+    margin-top: 30px;
+    margin-bottom:20px ;
+}
+.welcome{
+   text-align: center;
+   color: #3e4242;
+}
+.texte{
+   margin: auto;
+   display: block;
+   text-align: justify;
+   text-align: center;
+   width: 50%;
+   color: rgb(90, 90, 90);
+}
+.today{
+    width: 600px;
+    padding: 35px;
+    margin-left: 150px;
+    float: left;
+    background-color: #b6dedc ;
+    margin-top: 64px;
+    
+
+}
+.recipe{
+border-radius: 50%;
+float: left;
+}
+.crusty{
+    float: left;
+    width: 290px;
+    height: 600px;
+}
+.multi{
+    float: right;
+    width: 290px;
+}
+footer{ 
+  
+    padding-top: 10%;
+    text-align: center;
+    margin-top: 60%;  
+}
+.aside{
+   
+    background-color: #25B3B4;
+    border-style: solid;
+    border-width: 5px;  
+    border-color: #078E8F; 
+    width: 210px;
+    margin-right: 230px;
+    margin-top: 64px ;
+   position: relative;
+    display: block;
+    float: right; color: white;
+}
+.ecole{
+    width: 25px;
+    margin: auto;
+}
+.p2{
+    margin-left: 15px;
+}
+button{
+    background-color: #078E8F;
+    color: white;
+    border: none;
+    float: right;
+}
+h2{
+    text-align: center;
+}
+.vignette{
+width: 100px;
+height: 100px;
+position: absolute;
+right: -30px;
+top: -60px;
+}
+.news{
+    margin-top: 35px;
+}
+.abcd{
+
+}
+.titre1{
+    background-color: #3e4242;
+    display: inline-block;
+    width: 300px;
+    float: left;
+}
+.titre2{
+    display: inline-block;
+    width: 300px;
+    float: right;
+    background-color: black;
+}
+h3{
+    text-align: center;
+    margin-bottom: 15px
+}
+h2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
